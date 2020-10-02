@@ -15,5 +15,5 @@ Na página de consulta é possivel criar filtros de procura desses gastos armaze
 
 Projeto criando através de aula na Udemy
 
-## Ferramntas Utilizadas
+## Ferramentas Utilizadas
 - Visual Studio Code
