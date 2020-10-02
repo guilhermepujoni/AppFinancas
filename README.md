@@ -1,6 +1,6 @@
 # Aplicativo de Finanças Pessoais
 
-## Descrição
+## :pig: Descrição
 
 <p align="center">
   <img src="https://i.imgur.com/5JsC0v8.png" height="200">
