@@ -3,7 +3,7 @@
 ## Descrição
 
 <p align="center">
-  <img src="https://i.imgur.com/5JsC0v8.png" height="400">
+  <img src="https://i.imgur.com/5JsC0v8.png" height="200">
 </p>
 
 Aplicação de finanças que colabora para manter os gastos mensais do usuário bem detalhados.
